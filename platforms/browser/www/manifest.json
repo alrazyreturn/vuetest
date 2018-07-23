@@ -1,9 +1,9 @@
 {
   "background_color": "#FFF",
   "display": "standalone",
-  "name": "helloworld",
-  "short_name": "helloworld",
-  "version": "com.phonegap.helloworld",
+  "name": "vuetest",
+  "short_name": "vuetest",
+  "version": "com.phonegap.vuetest",
   "description": "This is the project created from the template: phonegap-template-framework7-vue.",
   "author": "Apache Cordova Team",
   "icons": [],
